@@ -9,9 +9,9 @@
 
 **Show support:**
 <br>
-Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxontech/neat-chrome-dinosaur.svg?style=social&label=Star)
+[![GitHub stars](https://img.shields.io/github/stars/phantom-kali?style=social)](https://github.com/phantom-kali)
 <br>
-Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxontech.svg?style=social&label=Follow)
+[![Followers](https://img.shields.io/github/followers/phantom-kali?style=social)](https://github.com/phantom-kali)
 <br>
 
 Made by [maxontech](https://twitter.com/max_on_tech)
